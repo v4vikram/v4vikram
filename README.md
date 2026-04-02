@@ -7,7 +7,7 @@
 📈 Currently focused on system design and production-level projects  
 🎯 Targeting a solid developer role with continuous growth and impact  
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 - 💻 Languages: JavaScript (ES6+)
 - ⚛️ Frontend: React, Nest.js, Tailwind CSS
 - 🔄 State Management: Context API, Zustand, Redux Toolkit
